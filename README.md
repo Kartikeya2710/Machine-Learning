@@ -10,3 +10,6 @@ I have implemented Polynomial Regression from scratch using NumPy and then shown
 
 ### Ridge and Lasso Regression
 I have implemented Ridge Regression from scratch and have demonstrated the difference between Linear Regression and Ridge Regression by showing the decline in the weights as the cost function gets optimized by Gradient Descent. I have also used Closed Solution (Normal Equation) for Ridge Regression for directly obtaining the optimal value of theta for the Ridge Cost Function.
+
+### Classification Models
+I have implemented Classification models like Logistic Regression and K Nearest Neighbors (KNN) from scratch on dummy data as well some real world data. In some cases this is accompanied by some Exploratory Data Analysis (EDA) of the data. I have also added notes for some of the models which as per me, are sufficient to get a good understanding of the in's and out's of the algorithm
