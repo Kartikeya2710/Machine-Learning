@@ -14,5 +14,8 @@ I have implemented Ridge Regression from scratch and have demonstrated the diffe
 ### Classification Models
 I have implemented Classification models like Logistic Regression and K Nearest Neighbors (KNN) from scratch on dummy data as well some real world data. In some cases this is accompanied by some Exploratory Data Analysis (EDA) of the data. I have also added notes for some of the models which as per me, are sufficient to get a good understanding of the in's and out's of the algorithm
 
+### Support Vector Machines and Kernels
+I have added detailed hand-written notes on Support Vector Machines and Kernel Functions including the math as well as intuition behind them. The notes provide a good insight about the working and logic begind the algorithm.
+
 ### Neural Networks
 I have implemented a 3 Layer Neural Network (2 hidden layers and 1 output layer) from scratch using Python's built-in libraries on the MNIST dataset. I will also try to attach the related maths and intuition behind Neural Networks and some fundamental concepts of Deep Learning in general.
