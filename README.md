@@ -19,3 +19,6 @@ I have added detailed hand-written notes on Support Vector Machines and Kernel F
 
 ### Neural Networks
 I have implemented a 3 Layer Neural Network (2 hidden layers and 1 output layer) from scratch using Python's built-in libraries on the MNIST dataset. I will also try to attach the related maths and intuition behind Neural Networks and some fundamental concepts of Deep Learning in general.
+
+### K Means Clustering
+I have implemented K Means Clustering from scratch using NumPy, matplotlib and some other built-in libraries demostrating the cluster assignment and centroid shifting step of K Means. I have also covered the process of finding the best K for a given dataset and how one should choose the optimum value of K. K Means is a self-explanatory algorithm as it is very easy to represent graphically.
