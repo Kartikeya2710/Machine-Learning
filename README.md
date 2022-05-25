@@ -22,3 +22,9 @@ I have implemented a 3 Layer Neural Network (2 hidden layers and 1 output layer)
 
 ### K Means Clustering
 I have implemented K Means Clustering from scratch using NumPy, matplotlib and some other built-in libraries demostrating the cluster assignment and centroid shifting step of K Means. I have also covered the process of finding the best K for a given dataset and how one should choose the optimum value of K. K Means is a self-explanatory algorithm as it is very easy to represent graphically.
+
+### Generative Adversarial Networks (GANs)
+I have covered the intuition and working process behind GANs and have tried explaining the meaning and derivation of its min-max Loss Function, which is the same as in [Ian Goodfellow's original paper](https://arxiv.org/pdf/1406.2661.pdf). I am still having some difficulty in understanding how to get to the probabilistic loss function from the BCE-type min-max loss function.
+I might also try to understand the optimization process but might as well skip it for now as it is quite Math heavy.
+
+#### I have implemented a vanilla GAN from scratch to [Generate Hand-Written Digits](https://github.com/Kartikeya2710/Hand-Written-Digit-Generator) (trained on the MNIST dataset for about 25,000 epochs with a batch size of 64) and deployed the same with the help of Heroku and Streamlit.
