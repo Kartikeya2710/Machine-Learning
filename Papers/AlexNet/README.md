@@ -5,5 +5,5 @@
 </center>
 
 <div align="center">
-<img src="Alexnet_Architecture.png" width=1000>
+<img src="AlexNet_Architecture.png" width=1000>
 </div>
